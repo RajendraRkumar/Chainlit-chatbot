@@ -1,14 +1,22 @@
-# Welcome to Chainlit! 🚀🤖
+# Welcome to Grubhub bot!
 
-Hi there, Developer! 👋 We're excited to have you on board. Chainlit is a powerful tool designed to help you prototype, debug and share applications built on top of LLMs.
+### GrubHubBot is your ultimate companion for seamless food ordering and discovering delicious meals! Whether you’re craving something specific or looking to explore today’s special menu, GrubHubBot has you covered.
 
-## Useful Links 🔗
+## Key Features:
 
-- **Documentation:** Get started with our comprehensive [Chainlit Documentation](https://docs.chainlit.io) 📚
-- **Discord Community:** Join our friendly [Chainlit Discord](https://discord.gg/k73SQ3FyUh) to ask questions, share your projects, and connect with other developers! 💬
+### Today's Specials: Stay updated with exclusive deals and chef-curated menus tailored to your taste.
 
-We can't wait to see what you create with Chainlit! Happy coding! 💻😊
+- Quick Ordering: Reorder your favorites or customize your meals with just a few taps.
+- Smart Recommendations: Get suggestions based on your previous orders or trending dishes nearby.
+- Order Tracking: Know exactly when your food will arrive with real-time updates.
+- 24/7 Support: Have questions? Our chatbot is here to assist you anytime.
 
-## Welcome screen
 
-To modify the welcome screen, edit the `chainlit.md` file at the root of your project. If you do not want a welcome screen, just leave this file empty.
+## Check out Today’s Special Menu:
+
+- 🍔 Classic Cheeseburger Combo – Juicy beef patty with a side of crispy fries and a drink.
+- 🍣 Sushi Platter Deluxe – Fresh rolls, sashimi, and nigiri paired with soy sauce and wasabi.
+- 🌮 Taco Tuesday Feast – Choose from chicken, beef, or veggie tacos, served with chips and salsa.
+- 🍝 Pasta Primavera – A delightful blend of fresh veggies and creamy Alfredo sauce.
+
+### Let GrubHubBot make your dining experience effortless and enjoyable. Just ask, and your meal is on its way!

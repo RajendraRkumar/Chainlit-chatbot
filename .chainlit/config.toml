@@ -54,10 +54,17 @@ edit_message = true
 
 [UI]
 # Name of the assistant.
-name = "Assistant"
+name = "Grubhub Assistant"
+
+# Default chat title
+chat_title = "Grubhub Food Ordering Assistant"
+
+# Enable persistent chat history
+persistent_chat_history = true
 
 # Description of the assistant. This is used for HTML tags.
 # description = ""
+description = "Your personal assistant for food ordering and delivery"
 
 # Large size content are by default collapsed for a cleaner ui
 default_collapse_content = true
@@ -89,6 +96,7 @@ cot = "full"
 
 [UI.theme]
     default = "dark"
+    name = "Grubhub Bot"
     #layout = "wide"
     #font_family = "Inter, sans-serif"
 # Override default MUI light theme. (Check theme.ts)
